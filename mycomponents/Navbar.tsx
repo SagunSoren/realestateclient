@@ -8,7 +8,7 @@ const Navbar = ({ dark }: { dark: boolean }) => {
     >
       <div className="w-50">
         <Image
-          src={"/logo/logo1.png"}
+          src={"/logo/logo.png"}
           alt="logo"
           width={100}
           height={100}
